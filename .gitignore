@@ -1,0 +1,14 @@
+# Java output directories
+**/target/
+
+# Intellij IDEA directory
+.idea
+
+# Entirely useless "release.properties" file spitted out by maven each time we do a maven-release
+release.properties
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Visual Studio settings directory
+**/.vs/
